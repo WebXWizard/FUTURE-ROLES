@@ -907,6 +907,156 @@ Suggested Automation Architect order:
 9. Security, governance, reliability, scalability, and cost
 10. Projects, mock interviews, and rapid revision
 
+---
+
+## Part 11: Quality Analyst Revision
+
+Folder:
+
+```txt
+Quality Analyst
+```
+
+Main topics:
+
+- QA fundamentals, quality principles, verification, validation, and testing levels
+- SDLC, STLC, Agile, Scrum, user stories, and acceptance criteria
+- Test planning, test scenarios, test cases, test data, checklists, and RTM
+- Manual testing techniques, exploratory testing, UAT, smoke, sanity, regression, and retesting
+- API testing with HTTP basics, Postman, authentication, status codes, and negative tests
+- Web, mobile, cross-browser, UI, UX, and accessibility testing checks
+- Database testing, SQL basics, backend validation, ETL, and data quality
+- Selenium and Playwright automation basics, locators, waits, assertions, and framework design
+- Performance, security, compatibility, reliability, Jira, defect lifecycle, and QA metrics
+- CI/CD testing, build validation, release validation, QA projects, mock interviews, and rapid revision
+
+Suggested Quality Analyst order:
+
+1. QA fundamentals
+2. SDLC, STLC, and Agile
+3. Test planning and documentation
+4. Manual testing techniques
+5. API testing
+6. Web, mobile, and database testing
+7. Automation basics
+8. Performance, security, accessibility, and compatibility
+9. Defect management, Jira, CI/CD, and QA reporting
+10. Projects, mock interviews, and rapid revision
+
+---
+
+## Part 12: Data Analyst Revision
+
+Folder:
+
+```txt
+Data Analyst
+```
+
+Main topics:
+
+- Data analytics fundamentals, KPIs, metrics, and business problem framing
+- Excel, Google Sheets, formulas, pivot tables, and spreadsheet dashboards
+- SQL querying, joins, aggregations, CTEs, window functions, and validation
+- Python, pandas, notebooks, data cleaning, wrangling, and visualization
+- Statistics, probability, hypothesis testing, correlation, and A/B testing basics
+- BI tools including Power BI, Tableau, data modeling, filters, and publishing
+- Business analytics across product, marketing, finance, customer, and sales domains
+- Data storytelling, stakeholder communication, portfolio projects, and rapid revision
+
+Suggested Data Analyst order:
+
+1. Analytics fundamentals
+2. Excel and SQL
+3. Python and data cleaning
+4. Statistics and visualization
+5. BI tools and dashboards
+6. Business KPIs and domain analytics
+7. Projects, mock interviews, and rapid revision
+
+---
+
+## Part 13: MLOps Engineer Revision
+
+Folder:
+
+```txt
+MLOps Engineer
+```
+
+Main topics:
+
+- ML lifecycle, reproducibility, experiment tracking, and model registry
+- Python, Linux, Git, Docker, cloud infrastructure, and container registries
+- Data pipelines, feature stores, model training, artifact management, and serving
+- CI/CD for ML, testing, deployment gates, rollback, monitoring, and drift detection
+- Kubernetes orchestration, security, governance, model approvals, and compliance
+- End-to-end MLOps projects, architecture explanations, mock interviews, and rapid revision
+
+Suggested MLOps Engineer order:
+
+1. ML fundamentals for MLOps
+2. Python, Linux, Git, Docker, and cloud
+3. Data pipelines and feature stores
+4. Experiment tracking and model registry
+5. Model serving and inference
+6. CI/CD, monitoring, drift, and Kubernetes
+7. Security, governance, projects, and rapid revision
+
+---
+
+## Part 14: AI ML Engineer Revision
+
+Folder:
+
+```txt
+AI ML Engineer
+```
+
+Main topics:
+
+- AI, ML, deep learning fundamentals, Python, math, statistics, and optimization
+- Supervised learning, unsupervised learning, feature engineering, and model evaluation
+- Neural networks, CNNs, transfer learning, NLP, transformers, LLMs, RAG, and generative AI
+- Computer vision, model deployment, MLOps basics, responsible AI, and AI system design
+- AI ML projects, model explanation, mock interviews, resume points, and rapid revision
+
+Suggested AI ML Engineer order:
+
+1. AI ML fundamentals
+2. Python, math, and statistics
+3. Supervised and unsupervised learning
+4. Deep learning, NLP, LLMs, and computer vision
+5. Evaluation, deployment, responsible AI, and system design
+6. Projects, mock interviews, and rapid revision
+
+---
+
+## Part 15: Data Science Engineer Revision
+
+Folder:
+
+```txt
+Data Science Engineer
+```
+
+Main topics:
+
+- Data science lifecycle, Python, SQL, statistics, EDA, and business problem framing
+- Data engineering basics, pipelines, warehouses, lakes, validation, and lineage
+- Feature engineering, ML models, deep learning, AI, experimentation, and A/B testing
+- Big data, cloud analytics, deployment, MLOps basics, model monitoring, and drift
+- Data science projects, business communication, mock interviews, and rapid revision
+
+Suggested Data Science Engineer order:
+
+1. Data science fundamentals
+2. Python, SQL, statistics, and EDA
+3. Data engineering basics and feature engineering
+4. Machine learning, deep learning, and AI
+5. Evaluation, experimentation, big data, cloud, and deployment
+6. Projects, communication, mock interviews, and rapid revision
+
 Final reminder:
 
 ```txt
